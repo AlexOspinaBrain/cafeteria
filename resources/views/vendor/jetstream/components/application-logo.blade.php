@@ -1,0 +1,1 @@
+<img src={{ asset('images/burguer.png') }}  class="rounded-pill" alt="Logo" width="200"  >
