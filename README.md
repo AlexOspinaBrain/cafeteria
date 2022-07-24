@@ -7,6 +7,35 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+<h1>Sistema inventario y ventas para cafeteria</h1>
+    
+</h2>Es una aplicación desarrollada en Laravel.</h2>
+
+<h3>Instalación :</h3>
+
+<ul>
+<li>Clonar el repositorio</li>
+
+<li>Crear una base de datos</li>
+
+<li>Ahora puede hacer una copia del archivo .env.example con el nombre .env y en la seccion DB configurar el acceso a la base de datos creada</li>
+
+<li>Ahora debe ejecutar los siguientes comandos: </li>
+
+<ul>
+<li><code>composer install</code></li>
+<li><code>php artisan key:generate</code></li>
+<li><code>php artisan migrate --seed</code></li>
+</ul>
+    
+<h3>Listo, la base de datos ya contendra información de prueba pre fabricada</h3>
+<p>Puede ingresar con el usuario prueba@gmail.com password 1234</p>
+
+<br>
+
+
+<h3>Dudas con laravel? revise lo siguiente :</h3>
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
