@@ -34,7 +34,10 @@
 <p>Puede ingresar con el usuario prueba@gmail.com password 1234</p>
 
 <br>
+<h3>Acá lo puede ver en acción, http://alexdeploys.info</h3>
+<h4>Este ejemplo esta desplegado en Google Cloud en una VM Ubuntu con PHP8.1 FCM, Nginx y una instancia MySQL</h4>
 
+    <br>
 
 <h3>Dudas con laravel? revise lo siguiente :</h3>
 
