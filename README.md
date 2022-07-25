@@ -9,7 +9,7 @@
 
 <h1>Sistema inventario y ventas para cafeteria</h1>
     
-</h2>Es una aplicación desarrollada en Laravel.</h2>
+</h2>Es una aplicación desarrollada en Laravel 9, necesitaras PHP 8.</h2>
 
 <h3>Instalación :</h3>
 
