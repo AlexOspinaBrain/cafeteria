@@ -26,6 +26,8 @@
 <li><code>composer install</code></li>
 <li><code>php artisan key:generate</code></li>
 <li><code>php artisan migrate --seed</code></li>
+<li><code>npm install && npm run dev</code></li>
+
 </ul>
     
 <h3>Listo, la base de datos ya contendra información de prueba pre fabricada</h3>
