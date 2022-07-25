@@ -26,7 +26,7 @@
 <li><code>composer install</code></li>
 <li><code>php artisan key:generate</code></li>
 <li><code>php artisan migrate --seed</code></li>
-<li><code>npm install && npm run dev</code></li>
+<li><code>npm install && npm run build</code></li>
 
 </ul>
     
